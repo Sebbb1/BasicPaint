@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Paint:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5da6d6a8-fe03-42db-a832-a6da055d65ec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Paint$PaintGame.ic" NAME="PaintGame Coverage Results" MODIFIED="1548264074294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Paint" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>layer1</find>
+      <find>activeLayer</find>
+      <find>drawLayer</find>
+      <find>drawButton</find>
+      <find>buttonWidthHeight</find>
+      <find>firstY</find>
+      <find>lineButton</find>
+      <find>public void draw</find>
+      <find>customDraw</find>
+      <find>xInput()</find>
+      <find>input.getMouseY</find>
+      <find>colorMenu</find>
+      <find>drawableAreaX</find>
+      <find>setActive</find>
+      <find>setLayerActive</find>
+      <find>last</find>
+      <find>addLayer</find>
+      <find>colorButton</find>
+      <find>g.setColor</find>
+      <find>activeBoolean</find>
+      <find>fillShape</find>
+      <find>selectionButton</find>
+      <find>setSize</find>
+      <find>draw</find>
+      <find>button</find>
+      <find>lastActiveButton</find>
+      <find>selectionShape</find>
+      <find>countTime</find>
+      <find>topMargin</find>
+      <find>mousePressed</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>buttonWidthHeight</replace>
+      <replace>hideOrCreateColorMenu</replace>
+      <replace>layer</replace>
+      <replace>draw</replace>
+      <replace>customDraw</replace>
+      <replace>0</replace>
+      <replace>y</replace>
+      <replace>render</replace>
+      <replace>render(gc, g)</replace>
+      <replace>xInput</replace>
+      <replace>yInput</replace>
+      <replace>drawableAreaMaxX</replace>
+      <replace>buttonNew</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1SvvE0L3ygfI1asj0wu73SiSg2G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549016380599" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EasyCompte" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.151865" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\INTELLIJ\Project\Paint\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PaintGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PaintGame" />
+      <module name="Paint" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=D:\_LIB\slick" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PaintGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5da6d6a8-fe03-42db-a832-a6da055d65ec" name="Default Changelist" comment="" />
+      <created>1545576115320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545576115320</updated>
+      <workItem from="1545576121928" duration="1547000" />
+      <workItem from="1545577708889" duration="5081000" />
+      <workItem from="1545585464714" duration="111000" />
+      <workItem from="1545649896362" duration="398000" />
+      <workItem from="1545652671120" duration="9818000" />
+      <workItem from="1545663683237" duration="981000" />
+      <workItem from="1545676891869" duration="2366000" />
+      <workItem from="1545687920019" duration="3812000" />
+      <workItem from="1545765621978" duration="658000" />
+      <workItem from="1545832496965" duration="5825000" />
+      <workItem from="1545845207968" duration="1035000" />
+      <workItem from="1545915066936" duration="627000" />
+      <workItem from="1546850992333" duration="686000" />
+      <workItem from="1546852143753" duration="998000" />
+      <workItem from="1546864160502" duration="2648000" />
+      <workItem from="1546948819204" duration="1928000" />
+      <workItem from="1546956842208" duration="11348000" />
+      <workItem from="1547036398915" duration="6247000" />
+      <workItem from="1547051550900" duration="3219000" />
+      <workItem from="1547105411350" duration="304000" />
+      <workItem from="1547211496315" duration="59000" />
+      <workItem from="1547211696187" duration="160000" />
+      <workItem from="1547555802716" duration="5208000" />
+      <workItem from="1547561057419" duration="2845000" />
+      <workItem from="1547624028902" duration="3633000" />
+      <workItem from="1547647656962" duration="6180000" />
+      <workItem from="1547710555657" duration="5981000" />
+      <workItem from="1547796388796" duration="173000" />
+      <workItem from="1547802293095" duration="6799000" />
+      <workItem from="1548055917093" duration="10147000" />
+      <workItem from="1548081205885" duration="1169000" />
+      <workItem from="1548082512060" duration="1784000" />
+      <workItem from="1548159885011" duration="1080000" />
+      <workItem from="1548161032674" duration="866000" />
+      <workItem from="1548259134271" duration="4447000" />
+      <workItem from="1548322361401" duration="5276000" />
+      <workItem from="1548408799367" duration="6151000" />
+      <workItem from="1548420098239" duration="431000" />
+      <workItem from="1548421189383" duration="3781000" />
+      <workItem from="1548664372948" duration="2714000" />
+      <workItem from="1548667957605" duration="1223000" />
+      <workItem from="1548669271980" duration="310000" />
+      <workItem from="1548669653153" duration="2547000" />
+      <workItem from="1548674924191" duration="1067000" />
+      <workItem from="1548676059272" duration="1734000" />
+      <workItem from="1548677840174" duration="1095000" />
+      <workItem from="1548683971428" duration="244000" />
+      <workItem from="1548746626103" duration="4862000" />
+      <workItem from="1548879837938" duration="2504000" />
+      <workItem from="1548927579208" duration="2208000" />
+      <workItem from="1549011976000" duration="114000" />
+      <workItem from="1549012288858" duration="88000" />
+      <workItem from="1549013930316" duration="65000" />
+      <workItem from="1549015064909" duration="443000" />
+      <workItem from="1549015973738" duration="389000" />
+      <workItem from="1549288655833" duration="51000" />
+      <workItem from="1552570540195" duration="615000" />
+      <workItem from="1567679496992" duration="613000" />
+      <workItem from="1572456784954" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>Paint:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Paint</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>slick</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
