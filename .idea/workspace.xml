@@ -6,7 +6,39 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da6d6a8-fe03-42db-a832-a6da055d65ec" name="Default Changelist" comment="" />
+    <list default="true" id="5da6d6a8-fe03-42db-a832-a6da055d65ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/Brush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/Clickable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/CustomEllipse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/CustomLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/CustomPolygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/CustomRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/CustomShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/CustomText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/Drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/ImageButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/Layer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/MainWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Paint/MainWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Paint/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Paint/TextButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Brush.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/Brush.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UIElements/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clickable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Clickable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomEllipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/CustomEllipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/CustomLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/CustomPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/CustomRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/CustomShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/CustomText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImageButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UIElements/ImageButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Layer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shapes/Layer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UIElements/TextButton.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,54 +76,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>layer1</find>
-      <find>activeLayer</find>
-      <find>drawLayer</find>
-      <find>drawButton</find>
-      <find>buttonWidthHeight</find>
-      <find>firstY</find>
-      <find>lineButton</find>
-      <find>public void draw</find>
-      <find>customDraw</find>
-      <find>xInput()</find>
-      <find>input.getMouseY</find>
-      <find>colorMenu</find>
-      <find>drawableAreaX</find>
-      <find>setActive</find>
-      <find>setLayerActive</find>
-      <find>last</find>
-      <find>addLayer</find>
-      <find>colorButton</find>
-      <find>g.setColor</find>
-      <find>activeBoolean</find>
-      <find>fillShape</find>
-      <find>selectionButton</find>
-      <find>setSize</find>
-      <find>draw</find>
-      <find>button</find>
-      <find>lastActiveButton</find>
-      <find>selectionShape</find>
-      <find>countTime</find>
-      <find>topMargin</find>
-      <find>mousePressed</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>buttonWidthHeight</replace>
-      <replace>hideOrCreateColorMenu</replace>
-      <replace>layer</replace>
-      <replace>draw</replace>
-      <replace>customDraw</replace>
-      <replace>0</replace>
-      <replace>y</replace>
-      <replace>render</replace>
-      <replace>render(gc, g)</replace>
-      <replace>xInput</replace>
-      <replace>yInput</replace>
-      <replace>drawableAreaMaxX</replace>
-      <replace>buttonNew</replace>
-    </replaceStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SvvE0L3ygfI1asj0wu73SiSg2G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -210,6 +196,7 @@
       <workItem from="1552570540195" duration="615000" />
       <workItem from="1567679496992" duration="613000" />
       <workItem from="1572456784954" duration="159000" />
+      <workItem from="1572457228640" duration="642000" />
     </task>
     <servers />
   </component>
@@ -224,6 +211,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

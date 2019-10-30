@@ -1,3 +1,6 @@
+package UIElements;
+
+import Interfaces.Clickable;
 import org.newdawn.slick.Color;
 import org.newdawn.slick.Input;
 import org.newdawn.slick.geom.Rectangle;

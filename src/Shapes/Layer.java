@@ -1,9 +1,10 @@
+package Shapes;
+
 import java.util.ArrayList;
 
-import org.newdawn.slick.Color;
+import Interfaces.Drawable;
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;
-import org.newdawn.slick.geom.Shape;
 
 public class Layer {
 	
